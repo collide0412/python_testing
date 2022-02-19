@@ -8,7 +8,7 @@ print(num)
 print(abs(-3))
 print(round(3.14, 1))
 
-num_1 = 3
+num_1 = 5
 num_2 = 4
 print(num_1 == num_2)
 
@@ -20,3 +20,4 @@ print(num_1 + num_2)
 # num_1 = 100
 # num_2 = 200
 # print(num_1 + num_2)
+
