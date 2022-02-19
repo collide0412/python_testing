@@ -1,7 +1,7 @@
 num = 3.14
 print(type(num))
 
-num = 1
+num = 2
 num *= 10
 print(num)
 
