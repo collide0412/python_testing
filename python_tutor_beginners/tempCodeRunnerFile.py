@@ -1,1 +1,0 @@
-print(courses.index('Math'))
